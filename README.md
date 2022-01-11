@@ -9,7 +9,7 @@ O sistema activa unha bomba de auga cando os valores proporcionados por un senso
 Ademais do microcontrolador escollido, neste caso un Arduino UNO v3, necesitaremos os seguintes materiais:
 
 - Resistencias:
-    - x2 de 220kΩ para a bomba
+    - x2 de 220Ω para a bomba e o ventilador
     - x1 de 10kΩ para o sensor de temperatura
 - [Transistor NPN] (x2)
 - Diodo rectificador (x2)
