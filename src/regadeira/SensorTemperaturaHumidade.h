@@ -15,7 +15,7 @@
 class SensorTemperaturaHumidade {
  private:
  
-  DHT dht = DHT(5, DHT11); // obxecto de control do sensor
+  DHT dht = DHT(2, DHT11); // obxecto de control do sensor
   float temperatura;       // último valor de temperatura lido
   float humidade;          // último valor de humidade lido
 
