@@ -22,6 +22,10 @@ Esquema de montaxe:
 
 ![Montaxe](./doc/montaxe.png)
 
+Esquema eléctrico:
+
+![Esquema](./doc/esquema.png)
+
 
 > Sara Aguado Couselo (2022)
 
